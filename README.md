@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/songoku2806" target="blank"><img src="https://img.shields.io/twitter/follow/songoku2806?logo=twitter&style=for-the-badge" alt="songoku2806" /></a> </p>
 
-- 🔭 I’m currently working on **Deep Learning Projects**
+- 🔭 I’m currently working on **Agentic AI Projects**
 
-- 🌱 I’m currently learning **Tensorflow , Langchain**
+- 🌱 I’m currently learning **Agentic AI , Langchain,GenAI**
 
 - 📫 How to reach me **Shakti Sarada Prasad**
 
